@@ -525,7 +525,7 @@ CLinkList* InitList(CLinkList *L)
 }
 ```
 
-## 2、空循环链表的判断	|	Is\_empty(L)
+## 2、空循环链表的判断_Is\_empty(L)
 
 ```C
 int Is_empty(CLinkList *L)
@@ -886,7 +886,7 @@ typedef struct LNode
 typedef LNode DLinkList; 
 ```
 
-## 1、双向链表的初始化	|	InitList(L)
+## 1、双向链表的初始化_InitList(L)
 
 ```C
 DLinkList* InitList(DLinkList *L)
@@ -927,7 +927,7 @@ int Is_empty(DLinkList *L)
 
 
 
-## 3、打印双向链表	|	PrintList(L)
+## 3、打印双向链表_PrintList(L)
 
 ```C
 int PrintList(DLinkList *L)
@@ -1537,7 +1537,7 @@ void main()
 }
 ```
 
-# 双向循环链表	DCLinkList(DoubleCircularLinkedList)
+# 双向循环链表_DCLinkList(DoubleCircularLinkedList)
 
 ## 构造双向循环链表
 
