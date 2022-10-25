@@ -1,11 +1,12 @@
 <!-- _navbar.md -->
 
 * 链接到我
-  * [博客园地址](https://www.cnblogs.com/Can-daydayup/)
-  * [Github地址](https://github.com/YSGStudyHards)
-  * [知乎地址](https://www.zhihu.com/people/ysgdaydayup)
-  * [掘金地址](https://juejin.cn/user/2770425031690333/posts)
-  * [Gitee地址](https://gitee.com/ysgdaydayup)
+  * [Github地址](https://github.com/Krs1250)
+  * [BiliBili](https://space.bilibili.com/6190524?spm_id_from=333.1007.0.0)
+  * [知乎地址](#)
+  * [博客园地址](#)
+  * [掘金地址](#)
+  * [Gitee地址](#)
 
 
 * 友情链接
