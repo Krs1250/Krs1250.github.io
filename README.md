@@ -3,7 +3,7 @@
 - [ ] 白噪音播放器网页
 - [ ] 文件存放链接
 
-[view](Krs1250.github.io)
+[view](https://krs1250.github.io/#/README)
 
 		
 &#129321;
