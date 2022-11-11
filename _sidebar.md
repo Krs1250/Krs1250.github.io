@@ -6,3 +6,4 @@
   * [Data_Structure&Algorithm](#)
   * [Politics](#) -->
 * [PixelArt](/docs/PixelArt/README.md)
+* [Board_game](/docs/Board_game/README.md)
