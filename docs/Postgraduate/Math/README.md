@@ -12,7 +12,7 @@
     - 基础运用
     - [数学相关基础](#)
 - Python-库（Anaconda|科学工具包）
-    - [math | python基础库](http://175.178.179.220:8888/notebooks/docs/Postgraduate/Math/Untitled1.ipynb?kernel_name=python3#Math%E5%BA%93)
+    - [math | python基础库](http://175.178.179.220:8888/notebooks/docs/Postgraduate/Math/Math.ipynb)
     - [numpy | 维度数组与矩阵运算](#)
     - [sympy | 符号计算](#)
     - [scipy | 数学工具包](#) 
